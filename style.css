@@ -1,0 +1,15 @@
+body { font-family:Arial;
+      background-color:#2AC6D4;
+      color:#17332D;
+      margin: 0;
+      paddimg: 0;
+     }
+header {
+  backround-color:#2AC6D4;
+  color: white;
+  padding: 1 em;
+  text-aligm:center;
+}
+nav ul li {
+  background-color: white;  
+  
