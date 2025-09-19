@@ -10,6 +10,10 @@ header {
   padding: 1 em;
   text-aligm: center;
 }
+nav ul {
+     list-style: none;
+      padding: 2em auto;
+      max-width: 600px;
 nav ul li {
   background-color: white;  
       msrgin: 1em 0;
