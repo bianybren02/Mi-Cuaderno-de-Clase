@@ -24,3 +24,17 @@ nav ul li a {
       text-decoration: none;
             color:#31DE92
       font-weight: serif;
+}
+main {
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+}
+footer {
+      background-color:#00734A;
+      color: white;
+      text-aligm: center;
+      padding: 1em;
+      position: relative;
+      bottom: 0;
+      margin-top: 2em;
